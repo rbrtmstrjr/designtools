@@ -10,8 +10,8 @@ export default function App() {
       <Navigation />
       <Routes>
         <Route path="/designtools" element={<Tools />} />\
-        <Route path="/links" element={<Usefulsite />} />
-        <Route path="/notes" element={<Notes />} />
+        <Route path="/designtools/links" element={<Usefulsite />} />
+        <Route path="/designtools/notes" element={<Notes />} />
       </Routes>
     </>
   );

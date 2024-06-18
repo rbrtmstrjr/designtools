@@ -11,13 +11,13 @@ const nav = [
   {
     id: 2,
     name: "Yeti Links",
-    url: "/links/",
+    url: "/designtools/links/",
     icon: "",
   },
   {
     id: 3,
     name: "My Notes",
-    url: "/notes/",
+    url: "/designtools/notes/",
     icon: "",
   },
 ];
