@@ -46,7 +46,7 @@ const dataArray = [
     id: 6,
     title: "Client Folder",
     description: `A list of different project for DotYeti client.`,
-    url: "https://www.16personalities.com",
+    url: "https://drive.google.com/drive/folders/1dEqVTTwH_Oah4lxn8dZP6KnnqVFHlA5O",
     imageUrl: "",
     category: "typography",
   },
