@@ -9,7 +9,7 @@ export default function App() {
     <>
       <Navigation />
       <Routes>
-        <Route path="/" element={<Tools />} />\
+        <Route path="/designtools" element={<Tools />} />\
         <Route path="/links" element={<Usefulsite />} />
         <Route path="/notes" element={<Notes />} />
       </Routes>

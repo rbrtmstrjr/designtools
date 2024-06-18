@@ -5,19 +5,19 @@ const nav = [
   {
     id: 1,
     name: "Design Tools",
-    url: "/",
+    url: "/designtools/",
     icon: "",
   },
   {
     id: 2,
     name: "Yeti Links",
-    url: "/links",
+    url: "/links/",
     icon: "",
   },
   {
     id: 3,
     name: "My Notes",
-    url: "/notes",
+    url: "/notes/",
     icon: "",
   },
 ];
