@@ -15,7 +15,7 @@ const designTools = [
     title: "Font in Use",
     description: `A Searchable Archive Of Typographic Design`,
     url: "https://fontsinuse.com/",
-    imageUrl: "./images/fonts-in-use.svg",
+    imageUrl: "./images/fontinuse.svg",
     category: "typography",
   },
   {
@@ -23,7 +23,7 @@ const designTools = [
     title: "Font Fabric",
     description: `High-Quality Typefaces, Calligraphy And Lettering`,
     url: "https://www.fontfabric.com/",
-    imageUrl: "./images/font-fabric.svg",
+    imageUrl: "./images/fabric.svg",
     category: "typography",
   },
   {
@@ -32,7 +32,7 @@ const designTools = [
     description:
       "Find the perfect font for your next project with Adobe Fonts.",
     url: "https://fonts.adobe.com/",
-    imageUrl: "./images/adobe-fonts.svg",
+    imageUrl: "./images/adob.svg",
     category: "typography",
   },
   {
@@ -50,7 +50,7 @@ const designTools = [
     description:
       "Free fonts for commercial use. Download thousands of high-quality free fonts.",
     url: "https://www.fontsquirrel.com/",
-    imageUrl: "./images/font-squirrel.svg",
+    imageUrl: "./images/squirel.svg",
     category: "typography",
   },
   {
@@ -59,7 +59,7 @@ const designTools = [
     description:
       "An AI-powered font pairing generator that allows you to adjust the contrast and width of suggested fonts.",
     url: "https://fontjoy.com",
-    imageUrl: "./images/font-joy.svg",
+    imageUrl: "./images/joy.svg",
     category: "typography",
   },
   {
